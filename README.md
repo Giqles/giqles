@@ -1,6 +1,6 @@
 ### Adam Giles
 
-I work as a Research Scientist at Amazon in London. I'm currently leading the engineering side of an Economics and Machine Learning team, where we use statistics, economics, and technology to solve complex economic and causal inference problems.
+I work as an Applied Scientist at Amazon in London. I'm currently working on causal inference and incrementality in advertising.
 
 Here you'll find my personal projects, most of which aren't very work related. Eg,
 
